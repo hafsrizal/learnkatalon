@@ -21,3 +21,7 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://starbridges.indocyber.co.id/Application/Account/Login?ReturnUrl=%2fApplication')
 
+WebUI.setText(findTestObject('Object Repository/Page_Login/input_Sign in_LoginName'), 'shafrizal')
+
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_Login/input_Sign in_Password'), 'k3izVQlDU+2qdzspMqP5JQ==')
+
