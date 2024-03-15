@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Personal Leave</name>
+   <tag></tag>
+   <elementGuidId>53f79eeb-8f20-4eec-91c4-89a8a3b0dd84</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@name='Personal Leave']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a[name=&quot;Personal Leave&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Personal Leave&quot;s]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>da97b999-ff4d-467d-ac6a-a1d2a8b525e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>classForFunction sub-nav</value>
+      <webElementGuid>58c7fa0d-737c-4bd3-8193-d85d3ff4c9b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>Personal Leave</value>
+      <webElementGuid>e56eb7b2-3767-4d9b-90a0-d91a2319ce40</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-id</name>
+      <type>Main</type>
+      <value>417</value>
+      <webElementGuid>909a4e8d-997c-430f-ae92-21a568adc855</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ajax</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>217a4f82-e45e-4e3c-89c8-d8f2a71aab76</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ajax-begin</name>
+      <type>Main</type>
+      <value>RemovePrevData</value>
+      <webElementGuid>5e5a80e4-dbb0-4178-941e-f4975366f5f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ajax-mode</name>
+      <type>Main</type>
+      <value>replace</value>
+      <webElementGuid>6ea15abc-1043-4c56-8a71-3070da0c2700</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ajax-update</name>
+      <type>Main</type>
+      <value>#result</value>
+      <webElementGuid>fe201ee0-3948-4529-9b93-04336f9becdf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ajax-loading</name>
+      <type>Main</type>
+      <value>#Loading</value>
+      <webElementGuid>0c25b594-550c-450d-93dc-03e7353ab2a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/Application/Time/PersonalLeave</value>
+      <webElementGuid>096e7c17-4c6d-4c7d-8b74-dff243242f3e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Personal Leave</value>
+      <webElementGuid>c1a5b006-f5fe-420b-b1cc-f5d0c117249b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sidebar-wrapper&quot;)/ul[@class=&quot;sidebar-nav&quot;]/li[3]/ul[@class=&quot;master-subnav&quot;]/li[5]/a[@class=&quot;classForFunction sub-nav&quot;]</value>
+      <webElementGuid>cc77a113-7be0-4154-b878-a5dccf0ce867</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@name='Personal Leave']</value>
+      <webElementGuid>7624137e-ba1f-4755-8771-ad6b8930281c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='sidebar-wrapper']/ul/li[3]/ul/li[5]/a</value>
+      <webElementGuid>af48284d-135b-4be4-a15c-1117a5a9e5c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Personal Leave')]</value>
+      <webElementGuid>45de3042-647c-434c-99f8-df6ac75ba414</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Personal Attendance Report'])[1]/following::a[1]</value>
+      <webElementGuid>82bf76d6-9c0b-4848-98dd-1941557ebbd3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Leave Transaction ESS'])[1]/following::a[2]</value>
+      <webElementGuid>3f07e7f7-44a2-4f18-afef-dd33260faadf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Personal Leave Cancelation'])[1]/preceding::a[1]</value>
+      <webElementGuid>445af600-b93a-4341-8a68-14f5b714f763</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Component'])[1]/preceding::a[2]</value>
+      <webElementGuid>e234e883-9ecb-448a-9ed7-8b1f16b14cd0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Personal Leave']/parent::*</value>
+      <webElementGuid>c5a2876e-1319-4867-9f29-4b6691e4f2a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/Application/Time/PersonalLeave')]</value>
+      <webElementGuid>2ac53bc1-44d2-4033-9cc6-73aad42bcac4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/ul/li[5]/a</value>
+      <webElementGuid>8d09f1c9-264a-4cfb-9cc4-aa2d336ce7e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@name = 'Personal Leave' and @href = '/Application/Time/PersonalLeave' and (text() = 'Personal Leave' or . = 'Personal Leave')]</value>
+      <webElementGuid>f9b18c37-1c9e-42a1-8cc9-7a417a5e15d7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

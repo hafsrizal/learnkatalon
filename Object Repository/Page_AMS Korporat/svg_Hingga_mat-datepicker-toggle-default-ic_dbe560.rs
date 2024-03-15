@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_Hingga_mat-datepicker-toggle-default-ic_dbe560</name>
+   <tag></tag>
+   <elementGuidId>fb86fd8c-1fc3-4eef-9797-2dde152505ab</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Hingga'])[1]/following::*[name()='svg'][1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.mat-icon-button.mat-button-base.cdk-focused.cdk-mouse-focused > span.mat-button-wrapper > svg.mat-datepicker-toggle-default-icon.ng-star-inserted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>mat-form-field >> internal:has-text=&quot;Hingga&quot;i >> internal:label=&quot;Open calendar&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>31d1517d-f141-46f2-856b-9f65d42910f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 24 24</value>
+      <webElementGuid>ca929f62-2548-4369-b41a-a553f2d2fec8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>24px</value>
+      <webElementGuid>a5d06dfd-427f-4ede-8911-728d060a6a3a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>24px</value>
+      <webElementGuid>aeab703a-962b-40b4-98bd-515a728d816b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>currentColor</value>
+      <webElementGuid>f96580d8-0715-4e4b-9973-0a0463d48c6c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>focusable</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>108c3d59-5458-4c7f-99ad-822fd87d646a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-datepicker-toggle-default-icon ng-star-inserted</value>
+      <webElementGuid>13c8805e-4b7c-4ee3-8bab-ddcd1fb70d64</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;notranslate&quot;]/body[1]/app-root[1]/app-home[@class=&quot;ng-star-inserted&quot;]/mat-drawer-container[@class=&quot;mat-drawer-container container&quot;]/mat-drawer-content[@class=&quot;mat-drawer-content ng-star-inserted&quot;]/div[@class=&quot;sidenav-content&quot;]/app-smasuk-list[@class=&quot;ng-star-inserted&quot;]/mat-toolbar[@class=&quot;mat-toolbar toolbar-custom mat-toolbar-multiple-rows&quot;]/mat-toolbar-row[@class=&quot;mat-toolbar-row toolbar-row-custom&quot;]/div[1]/mat-form-field[@class=&quot;mat-form-field custom-form-field-date ng-tns-c94-28 mat-primary mat-form-field-type-mat-input mat-form-field-appearance-legacy mat-form-field-can-float mat-form-field-should-float mat-form-field-has-label mat-form-field-hide-placeholder ng-valid ng-touched ng-dirty&quot;]/div[@class=&quot;mat-form-field-wrapper ng-tns-c94-28&quot;]/div[@class=&quot;mat-form-field-flex ng-tns-c94-28&quot;]/div[@class=&quot;mat-form-field-suffix ng-tns-c94-28 ng-star-inserted&quot;]/mat-datepicker-toggle[@class=&quot;mat-datepicker-toggle ng-tns-c94-28&quot;]/button[@class=&quot;mat-icon-button mat-button-base cdk-focused cdk-mouse-focused&quot;]/span[@class=&quot;mat-button-wrapper&quot;]/svg[@class=&quot;mat-datepicker-toggle-default-icon ng-star-inserted&quot;]</value>
+      <webElementGuid>a78861f3-523d-4aba-a5f8-9f813916228b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hingga'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>a27638c7-13b3-41bb-8349-80c4fc9aa1f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>6e5c4d5b-b560-4b85-bbe3-af5227f562f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hal'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>e5818723-49fb-4011-a5ad-c8b913673ed4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kata Kunci'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>b4e33a07-a09d-4f44-8601-3116d8fd8ea9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

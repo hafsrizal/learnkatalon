@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>mat-icon_add_circle</name>
+   <tag></tag>
+   <elementGuidId>99edf9ad-ac6a-4dd1-9f22-357d9de6db9a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>mat-icon.mat-icon.notranslate.material-icons.mat-icon-no-color</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='BUAT NASKAH DINAS'])[1]/preceding::mat-icon[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;BUAT NASKAH DINAS&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>mat-icon</value>
+      <webElementGuid>10ffe5f1-b6ff-42de-a41a-b1308c78297d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>f9cf905a-93dd-432b-91e3-e315366368c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-icon notranslate material-icons mat-icon-no-color</value>
+      <webElementGuid>0100f15c-0edf-43e4-bbcd-742983149a0c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>5e2e94c7-b66f-4856-9faa-5dd05d8f7680</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>add_circle</value>
+      <webElementGuid>1777c350-d0a1-4f69-9970-229505ed4264</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;notranslate&quot;]/body[1]/app-root[1]/app-home[@class=&quot;ng-star-inserted&quot;]/mat-drawer-container[@class=&quot;mat-drawer-container container&quot;]/mat-drawer[@class=&quot;mat-drawer sidenav ng-tns-c56-0 ng-trigger ng-trigger-transform mat-drawer-side mat-drawer-opened ng-star-inserted&quot;]/div[@class=&quot;mat-drawer-inner-container ng-tns-c56-0&quot;]/app-sidenavlist[@class=&quot;ng-star-inserted&quot;]/button[@class=&quot;mat-menu-trigger custom-add-button mat-button mat-button-base ng-star-inserted cdk-focused cdk-mouse-focused&quot;]/span[@class=&quot;mat-button-wrapper&quot;]/mat-icon[@class=&quot;mat-icon notranslate material-icons mat-icon-no-color&quot;]</value>
+      <webElementGuid>dc58dbac-1c06-4fbf-9d13-8885322fbc81</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BUAT NASKAH DINAS'])[1]/preceding::mat-icon[1]</value>
+      <webElementGuid>34dd5b9f-a159-44f1-a8ec-c0aeef1e69c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DASHBOARD SLA'])[1]/preceding::mat-icon[1]</value>
+      <webElementGuid>50598409-dd0a-48e5-81fb-dbe369bbc532</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='add_circle']/parent::*</value>
+      <webElementGuid>a7bb694c-be04-4476-9372-213f546a3999</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-icon</value>
+      <webElementGuid>57890ba4-52fb-4cf9-b7c6-6c5c7c7f0e7b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//mat-icon[(text() = 'add_circle' or . = 'add_circle')]</value>
+      <webElementGuid>3f08f4f1-a985-4dc3-b5d0-a2e567e31fda</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

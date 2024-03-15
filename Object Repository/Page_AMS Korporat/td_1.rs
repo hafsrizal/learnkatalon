@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_1</name>
+   <tag></tag>
+   <elementGuidId>3f204344-9eb4-4359-9ce9-38839c419192</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Action'])[1]/following::td[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td.mat-cell.cdk-cell.cdk-column-No.mat-column-No.ng-star-inserted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=gridcell[name=&quot;1&quot;s]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>81c026fc-a889-4224-a939-f95ac4cb6862</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>gridcell</value>
+      <webElementGuid>fab0205f-bcaf-4d7a-bad0-cb80b206374f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-cell cdk-cell cdk-column-No mat-column-No ng-star-inserted</value>
+      <webElementGuid>50dd8cae-32bd-4aa0-830f-f9fd95fa6860</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> 1 </value>
+      <webElementGuid>b93c8f3a-4ea8-4627-a27c-c32429b253f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;notranslate&quot;]/body[1]/app-root[1]/app-home[@class=&quot;ng-star-inserted&quot;]/mat-drawer-container[@class=&quot;mat-drawer-container container&quot;]/mat-drawer-content[@class=&quot;mat-drawer-content ng-star-inserted&quot;]/div[@class=&quot;sidenav-content&quot;]/app-smasuk-list[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;surat-list-wrapper&quot;]/div[@class=&quot;smasuk-container&quot;]/table[@class=&quot;mat-table cdk-table&quot;]/tbody[1]/tr[@class=&quot;mat-row cdk-row ng-star-inserted&quot;]/td[@class=&quot;mat-cell cdk-cell cdk-column-No mat-column-No ng-star-inserted&quot;]</value>
+      <webElementGuid>b9186d0c-464e-4509-94b0-63e1c8569360</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Action'])[1]/following::td[2]</value>
+      <webElementGuid>9917fec8-f06b-4cda-87be-15f158a5368b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tgl Terima'])[1]/following::td[2]</value>
+      <webElementGuid>5b419a93-d7da-4e4d-951a-aecb62b058a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='GM UID BALI PLN'])[1]/preceding::td[4]</value>
+      <webElementGuid>5598f5ed-1705-4adb-8d13-53c3cb6f009c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SURAT TSQA2.180124'])[1]/preceding::td[5]</value>
+      <webElementGuid>8d7665a0-258e-4ac3-8c7c-84bbb039e889</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='1']/parent::*</value>
+      <webElementGuid>6bf56c58-3013-4f3b-a437-0dead8c65837</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]</value>
+      <webElementGuid>d7ff9551-ef3e-478d-9f0b-45ecaf3bf462</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = ' 1 ' or . = ' 1 ')]</value>
+      <webElementGuid>4dc3168a-5d92-48cf-9581-f1e7d0ab94ce</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_inboxSurat Masuk</name>
+   <tag></tag>
+   <elementGuidId>b61528a4-169d-4e8a-b034-fefc9d16edf6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cdk-accordion-child-0']/div/mat-list/mat-list-item/div/div[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.mat-line.custom-link.mat-button.mat-button-base.cdk-focused.cdk-mouse-focused</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Surat Masuk&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>9fcd3237-3787-4ce5-b7a2-f9df99e83315</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-line custom-link mat-button mat-button-base cdk-focused cdk-mouse-focused</value>
+      <webElementGuid>137f2670-116f-40d5-b56a-1cb586a6b580</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>d0386af1-eb12-4989-bfa2-e00a9d0d3a2e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-disabled</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>c15c26a6-8d31-41c3-be3a-a82ee00dc287</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/home/smasuk/smasuk</value>
+      <webElementGuid>53580347-3eef-4646-80f2-af7882d4382b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>inboxSurat Masuk </value>
+      <webElementGuid>a8151d32-ab22-478c-8b81-3d162cb8b82c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cdk-accordion-child-0&quot;)/div[@class=&quot;mat-expansion-panel-body ng-tns-c71-7&quot;]/mat-list[@class=&quot;mat-list mat-list-base custom-list ng-tns-c71-7&quot;]/mat-list-item[@class=&quot;mat-list-item expansion-height mat-list-item-avatar mat-list-item-with-avatar&quot;]/div[@class=&quot;mat-list-item-content&quot;]/div[@class=&quot;mat-list-text&quot;]/a[@class=&quot;mat-line custom-link mat-button mat-button-base cdk-focused cdk-mouse-focused&quot;]</value>
+      <webElementGuid>9a5eeac3-1587-4f8e-bc68-1061460db3e5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cdk-accordion-child-0']/div/mat-list/mat-list-item/div/div[2]/a</value>
+      <webElementGuid>92d1d4be-b0c9-44f3-a31a-c19e8df550de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SURAT MASUK'])[1]/following::a[1]</value>
+      <webElementGuid>d7223216-857d-433d-b5ad-8afbd4f29ee9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nota Dinas'])[1]/following::a[1]</value>
+      <webElementGuid>9b660362-9c62-4dae-bf7e-f9b201ceaa53</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Terkirim'])[1]/preceding::a[1]</value>
+      <webElementGuid>84561b31-0516-479d-9ca8-4425a875e4bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/home/smasuk/smasuk')]</value>
+      <webElementGuid>6ffd3943-cb40-46c9-8a5a-b196e5ae81ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/a</value>
+      <webElementGuid>bbab54af-58f7-4f3b-a573-38c07eec0883</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/home/smasuk/smasuk' and (text() = 'inboxSurat Masuk ' or . = 'inboxSurat Masuk ')]</value>
+      <webElementGuid>edd608c8-f870-4448-8095-6dfee8b38e75</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

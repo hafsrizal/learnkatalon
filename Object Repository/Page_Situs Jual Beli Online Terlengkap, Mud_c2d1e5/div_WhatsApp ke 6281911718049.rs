@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_WhatsApp ke 6281911718049</name>
+   <tag></tag>
+   <elementGuidId>c048213b-63b9-41fd-a0fa-d277978f2670</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Pilih Metode Verifikasi'])[1]/following::div[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.unf-card.css-1dns7ds-unf-card.eh33ozn0</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;whatsapp&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d314dff8-39bd-4cb4-be2d-b107b9221b07</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>unf-card css-1dns7ds-unf-card eh33ozn0</value>
+      <webElementGuid>8f857f0c-efac-4aa1-9d3f-21ec077e5960</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-unify</name>
+      <type>Main</type>
+      <value>Card</value>
+      <webElementGuid>fc642e8e-70eb-4975-8f65-e52c71fb0272</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>whatsapp</value>
+      <webElementGuid>cfe6ecf9-5386-4543-bad5-4f4b7879bad9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>WhatsApp ke 6281911718049</value>
+      <webElementGuid>32d11265-1df2-4b86-aeeb-c03371c7fbf4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;css-1g5w2rw&quot;]/div[7]/div[@class=&quot;css-y344pu e1nc1fa20&quot;]/article[@class=&quot;css-1f0x5lg-unf-modal e1nc1fa21&quot;]/div[@class=&quot;css-18qem4c e1nc1fa22&quot;]/div[@class=&quot;css-1qwpmq4&quot;]/div[@class=&quot;css-vpkyow&quot;]/div[@class=&quot;css-1tk5fl4&quot;]/div[@class=&quot;unf-card css-1dns7ds-unf-card eh33ozn0&quot;]</value>
+      <webElementGuid>3e799d83-28fb-43e8-802d-c49f96939c68</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pilih Metode Verifikasi'])[1]/following::div[3]</value>
+      <webElementGuid>73ee58b3-d807-4d75-8a69-6eb6546d422b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Berkendala dengan metode di atas?'])[1]/preceding::div[2]</value>
+      <webElementGuid>5139d19e-eb33-45db-aebf-7e3ec97b95e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//article/div/div/div/div[2]/div</value>
+      <webElementGuid>98b2fbb4-f8ef-4e89-8e09-24bf992c7242</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'WhatsApp ke 6281911718049' or . = 'WhatsApp ke 6281911718049')]</value>
+      <webElementGuid>e58642b2-3018-4954-ac37-dd494bfb749f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
